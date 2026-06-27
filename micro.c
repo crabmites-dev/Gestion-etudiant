@@ -370,7 +370,7 @@ void menuNotes() {
                 sauvegarderTout();
                 printf("\nNote ajoutee avec succes !\n");
             } else {
-                printf("\nEtudiant non reconnu.\n");
+                printf("\nEtudiant non reconnu. Veillez saisir un matricule valide\n");
             }
 
         } else if (c == 2) {
@@ -412,7 +412,7 @@ void menuNotes() {
                 printf("\nMOYENNE GENERALE : %.2f / 20", s / tc);
                 printf("\n============================================================\n");
             } else if (trouveEtudiant == 0) {
-                printf("\n\nAucune note trouvee pour ce matricule.\n");
+                printf("\n\nAucune note trouvee pour ce matricule.Veillez reessayer\n");
             }
         }
 
