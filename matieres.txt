@@ -1,3 +1,4 @@
 jv01;java;2
 l01;linux;2
+bd05;base de donnee;2
 base;de donnee;4
