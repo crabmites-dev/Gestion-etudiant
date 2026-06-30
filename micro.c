@@ -18,7 +18,7 @@ typedef struct {
 typedef struct {
     char code[10], libelle[50];
     int coefficient;
-} Matiere;
+} Matiere ;
 
 typedef struct {
     char matricule[20];
