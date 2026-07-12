@@ -1,4 +1,4 @@
-# 🏫 Logiciel de Gestion Scolaire
+# 🏫 Logiciel de Gestion Scolaire 
 
 Ce projet est un système de gestion d'établissement scolaire léger et persistant developpé avec le **Langage C** permettant de gérer efficacement les dossiers académiques des étudiants, l'administration des matières et le calcul automatisé des bulletins de notes.
 
