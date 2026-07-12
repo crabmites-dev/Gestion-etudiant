@@ -4,7 +4,7 @@ Ce projet est un système de gestion d'établissement scolaire léger et persist
 
 ---
 
-## 🚀 Fonctionnalités Principales 
+## 🚀 Fonctionnalités Principales  
 
 * **Gestion des Étudiants :** Ajout, modification, suppression et recherche d'élèves via un matricule alphanumérique unique.
 * **Gestion des Matières :** Configuration des modules d'enseignement avec coefficients personnalisés.
