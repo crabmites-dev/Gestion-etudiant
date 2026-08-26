@@ -27,9 +27,12 @@ typedef struct {
     char dateEval[11];
 } Note;
 
-Etudiant baseEtudiants[MAX_ETUDIANTS]; int nbEtudiants = 0;
-Matiere baseMatieres[MAX_MATIERES]; int nbMatieres = 0;
-Note baseNotes[MAX_NOTES]; int nbNotes = 0;
+Etudiant baseEtudiants[MAX_ETUDIANTS]; 
+int nbEtudiants = 0;
+Matiere baseMatieres[MAX_MATIERES]; 
+int nbMatieres = 0;
+Note baseNotes[MAX_NOTES]; 
+int nbNotes = 0;
 
 
 int saisirEntier() {
