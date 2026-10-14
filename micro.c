@@ -23,7 +23,7 @@ typedef struct {
 typedef struct {
     char matricule[20];
     char codeMatiere[10];
-    float valeur;
+    float valeur; 
     char dateEval[11];
 } Note;
 
